@@ -6,4 +6,6 @@ We used a TypeForm survey and integrated their API to have a live demo, where we
 and the algorithm would produce a recommendation for them.
 
 **Winner of HackSC's Best Use of Tailor Brands' data.** 
-This was a joint project with Harsh Chobisa, Anirudh Mani, and Tejas Bhat
+This was a joint project with Harsh Chobisa, Anirudh Mani, and Tejas Bhat.
+
+To see the DevPost, click [here](https://devpost.com/software/tailormatched)
